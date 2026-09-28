@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mantenimientoinformaticovillaviciosadeodon.es/sitemap.xml
