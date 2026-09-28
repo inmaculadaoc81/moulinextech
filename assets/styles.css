@@ -30,3 +30,6 @@
 .how-step{text-align:center}.step-num{width:56px;height:56px;margin:0 auto 18px;border-radius:50%;background:var(--red);color:#fff;display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:18px}
 .how-step h3{font-family:var(--display);font-size:17px;line-height:1.25;margin:0 0 8px}.how-step p{font-size:14px;line-height:1.5;color:#555;margin:0 auto;max-width:240px}.step-arrow{text-align:center;color:var(--red);font-size:20px;padding-top:16px}
 @media(max-width:800px){.trust-grid{grid-template-columns:1fr}.how-grid{grid-template-columns:1fr;gap:24px}.step-arrow{display:none}.trust-card{min-height:190px}.section-center{margin-bottom:28px}}
+
+/* Reducir separación entre proceso y confianza */
+#proceso{padding-bottom:38px}.trust-section{padding-top:38px}
